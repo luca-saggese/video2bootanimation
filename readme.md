@@ -20,7 +20,7 @@ brew install ffmpeg zip      # macOS
 ## Installation
 1. Download the script:
    ```sh
-   curl -O https://your-repo-url/bootanimation.sh
+   curl -O [https://your-repo-url/bootanimation.sh](https://raw.githubusercontent.com/luca-saggese/video2bootanimation/refs/heads/main/video2bootanimation.sh)
    ```
 2. Make it executable:
    ```sh
